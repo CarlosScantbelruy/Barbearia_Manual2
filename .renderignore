@@ -1,0 +1,9 @@
+# Ignorar arquivos do frontend
+src/
+index.html
+postcss.config.cjs
+tailwind.config.js
+# Ignorar arquivos de build e dependências
+node_modules/
+dist/
+.env
